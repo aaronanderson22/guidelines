@@ -571,7 +571,7 @@ Maquettes / story-boards / wireframes / mockups / zoning
 
 ## Logos
 * https://logomaster.ai/ créateur de logo en ligne
-* https://www.logopony.com/ génération de logos automatique
+* https://www.logopony.com/fr/ génération de logos automatique
 * http://www.logofi.com/
 * http://www.logogala.com/
 * http://www.logomoose.com/
